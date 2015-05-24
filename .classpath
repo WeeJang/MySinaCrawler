@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="/home/jangwee/workspace/wp_java/MySinaCrawler/lib/jsoup-1.7.3.jar"/>
+	<classpathentry kind="lib" path="/home/jangwee/workspace/wp_java/MySinaCrawler/lib/httpmime-4.4.1.jar"/>
+	<classpathentry kind="lib" path="/home/jangwee/workspace/wp_java/MySinaCrawler/lib/httpclient-cache-4.4.1.jar"/>
+	<classpathentry kind="lib" path="/home/jangwee/workspace/wp_java/MySinaCrawler/lib/httpclient-4.3.1.jar"/>
+	<classpathentry kind="lib" path="/home/jangwee/workspace/wp_java/MySinaCrawler/lib/fluent-hc-4.3.1.jar"/>
+	<classpathentry kind="lib" path="/home/jangwee/workspace/wp_java/MySinaCrawler/lib/fastjson-1.1.41.jar"/>
+	<classpathentry kind="lib" path="/home/jangwee/workspace/wp_java/MySinaCrawler/lib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="/home/jangwee/workspace/wp_java/MySinaCrawler/lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="/home/jangwee/workspace/wp_java/MySinaCrawler/lib/commons-lang-2.1.jar"/>
+	<classpathentry kind="lib" path="/home/jangwee/workspace/wp_java/MySinaCrawler/lib/commons-codec-1.9.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre"/>
+	<classpathentry kind="lib" path="/home/jangwee/workspace/wp_java/MySinaCrawler/lib/httpcore-4.3.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
